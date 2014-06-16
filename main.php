@@ -1,10 +1,15 @@
 
 <?php
-/** @file
+/** 
  * Main menu
  * 
+ * This is the main navigation page for all users after auth.
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GPLvt 
 *  @bug	 right hand drop down nav isn't working
 *  @todo docblock documentation
+* @auther Rik Goldman <rgolman@chelseaschool.org>
+* @package main.php
+* @version 14.6
 */
 
 /**
